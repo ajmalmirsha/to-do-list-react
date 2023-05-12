@@ -46,7 +46,7 @@ function App() {
         
       </div>
       <div className="left">
-          {todo.status ? <p id='completed'>completed</p> : null}
+          {todo.status && <p id='completed'>completed</p> }
           </div>
       <div className="right">
         <i
