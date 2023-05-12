@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ajmalmirsha/to-do-list-react.git/static/css/main.6cea0432.css",
+    "main.js": "/ajmalmirsha/to-do-list-react.git/static/js/main.8b9b3950.js",
+    "static/js/787.34d05ddd.chunk.js": "/ajmalmirsha/to-do-list-react.git/static/js/787.34d05ddd.chunk.js",
+    "index.html": "/ajmalmirsha/to-do-list-react.git/index.html",
+    "main.6cea0432.css.map": "/ajmalmirsha/to-do-list-react.git/static/css/main.6cea0432.css.map",
+    "main.8b9b3950.js.map": "/ajmalmirsha/to-do-list-react.git/static/js/main.8b9b3950.js.map",
+    "787.34d05ddd.chunk.js.map": "/ajmalmirsha/to-do-list-react.git/static/js/787.34d05ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cea0432.css",
+    "static/js/main.8b9b3950.js"
+  ]
+}
